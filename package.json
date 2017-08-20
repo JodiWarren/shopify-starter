@@ -1,0 +1,23 @@
+{
+  "name": "shopify-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "2.18.13",
+    "crossbow": "4.1.0",
+    "crossbow-sass": "4.1.0",
+    "gulp-flatten": "0.3.1",
+    "gulp-shopify-theme": "1.0.14",
+    "ts-loader": "2.3.3",
+    "typescript": "2.4.2",
+    "vinyl-fs": "2.4.4",
+    "webpack": "3.5.5",
+    "webpack-dev-middleware": "1.12.0"
+  }
+}

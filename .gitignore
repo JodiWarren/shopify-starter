@@ -1,0 +1,29 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node
+.npm
+node_modules
+
+# OSX
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Linux
+*~
+.directory
+.nfs*
+.fude_hidden*
+
+# Build directory
+dist

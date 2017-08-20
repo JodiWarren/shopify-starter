@@ -25,5 +25,8 @@ ehthumbs_vista.db
 .nfs*
 .fude_hidden*
 
+# IDE
+.idea
+
 # Build directory
 dist
